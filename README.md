@@ -1,2 +1,2 @@
 # Sales-Insights-Project
-This reposiroty contains data analysis project 
+This repository contains data analysis project 
